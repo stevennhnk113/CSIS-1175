@@ -5,6 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
 
+// Team member:
+// Nguyen Nguyen:   300298479
+// Hong Le:         300
+
 namespace AS1NguyenNguyen
 {
     class Program
